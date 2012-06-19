@@ -18,7 +18,7 @@ Or install it yourself as:
 
 Create a `config/redactorjs.yml` file with your global configuration options:
 
-      lang: 'es'
+      lang: 'zh_tw'
       autoresize: true
 
 See the [Redactor Documentation](http://redactorjs.com/docs/settings/) for a full list of configuration options.
