@@ -1,6 +1,6 @@
 # Rails 3.2 Integration for Redactor
 
-The rails-redactorjs gem integrates the Redactor editor with the Rails 3.2 asset pipeline.
+The rails-redactorjs gem integrates the [Redactor](http://redactorjs.com/) editor with the Rails 3.2 asset pipeline.
 
 ## Installation
 
@@ -16,7 +16,7 @@ Or install it yourself as:
 
     $ gem install rails-redactorjs
 
-Create a config/redactorjs.yml file with your global configuration options:
+Create a `config/redactorjs.yml` file with your global configuration options:
 
       lang: 'es'
       autoresize: true
@@ -25,11 +25,11 @@ See the [Redactor Documentation](http://redactorjs.com/docs/settings/) for a ful
 
 ### Include the Redactor assets
 
-Add to your application.js:
+Add to your `application.js`:
 
       //= require rails-redactorjs
 
-Add to your application.css:
+Add to your `application.css`:
 
       *= require rails-redactorjs
 
