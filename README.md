@@ -6,7 +6,7 @@ The rails-redactorjs gem integrates the [Redactor](http://redactorjs.com/) edito
 
 Add this line to your application's Gemfile:
 
-    gem 'rails-redactorjs', :git => "git://github.com/SammyLin/rasils-redactorjs.git"
+    gem 'rails-redactorjs', :git => "git://github.com/SammyLin/rails-redactorjs.git"
 
 And then execute:
 
